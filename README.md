@@ -1,6 +1,6 @@
 # AI Lab
 
-Multi-task AI tutorials and experiments for detection, segmentation, transformers, and related workflows.
+Multi-task AI tutorials and experiments for detection, segmentation, and related workflows.
 
 ## Kernel
 

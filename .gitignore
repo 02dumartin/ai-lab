@@ -1,0 +1,11 @@
+.python-version
+.venv
+
+# folder
+/basic format
+/function
+/transformer
+
+# subfolder
+/detection/RetinaNet/data
+/detection/RetinaNet/weight
