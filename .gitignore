@@ -10,3 +10,4 @@
 # subfolder
 /detection/RetinaNet/data
 /detection/RetinaNet/weight
+/segmentation/data
