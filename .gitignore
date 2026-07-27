@@ -1,5 +1,6 @@
 .python-version
 .venv
+.gitignore
 
 # folder
 /basic format
