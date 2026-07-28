@@ -8,8 +8,8 @@
 /transformer
 
 # weight
-.pth
-.pt
+*.pth
+*.pt
 
 # subfolder
 /detection/RetinaNet/data
