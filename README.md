@@ -2,14 +2,14 @@
 
 Multi-task AI tutorials and experiments for detection, segmentation, and related workflows.
 
+
 ## Kernel
 
 - Registered Jupyter kernel: `Python (ai-lab)`
 - Project environment: `.venv`
 
+
 ## Areas
 
-- `basic format`: shared notebook template
-- `transformer`: transformer-focused notes and experiments
+- `detection`: detection-related notebooks
 - `segmentation`: segmentation-related notebooks
-- `function`: utility notebooks such as optimizer and scheduler
