@@ -7,7 +7,14 @@
 /function
 /transformer
 
+# weight
+.pth
+.pt
+
 # subfolder
 /detection/RetinaNet/data
 /detection/RetinaNet/weight
-/segmentation/data
+/segmentation/base/data
+/segmentation/unet/data
+/segmentation/nnunet
+/segmentation/nnunet
