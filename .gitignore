@@ -11,10 +11,15 @@
 *.pth
 *.pt
 
+# sh
+*.sh
+
 # subfolder
 /detection/RetinaNet/data
 /detection/RetinaNet/weight
 /segmentation/base/data
 /segmentation/unet/data
-/segmentation/nnunet
-/segmentation/nnunet
+/segmentation/nnunet/nnUNet_raw
+/segmentation/nnunet/nnUNet_preprocessed
+/segmentation/nnunet/nnUNet_results
+
