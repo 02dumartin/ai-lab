@@ -1,0 +1,7 @@
+cuda_visible_devices: "1"
+model: "openai/gpt-oss-120b"
+args:
+  port: 8000
+  gpu_memory_utilization: 0.8
+  enable_auto_tool_choice: true
+  tool_call_parser: "openai"

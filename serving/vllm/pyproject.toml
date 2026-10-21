@@ -1,0 +1,8 @@
+[project]
+name = "vllm-serving"
+version = "0.1.0"
+description = "Local OpenAI-compatible LLM server (vLLM) for ai-lab agent notebooks"
+requires-python = "==3.11.*"
+dependencies = [
+    "vllm==0.32.0",
+]
