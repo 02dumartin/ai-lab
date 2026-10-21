@@ -23,3 +23,13 @@
 /segmentation/nnunet/nnUNet_preprocessed
 /segmentation/nnunet/nnUNet_results
 
+# secrets
+.env
+
+# python cache
+__pycache__/
+*.pyc
+
+# agent outputs
+/agent/**/outputs/
+
