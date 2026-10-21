@@ -1,0 +1,13 @@
+llm:
+  base_url: "http://localhost:8000/v1"
+  api_key: "EMPTY"
+  model: "openai/gpt-oss-120b"
+  max_tokens: 4000
+  temperature: 0.0
+
+  system_prompt: |
+    - Formatting rule (always apply):
+    - Write exactly one sentence per line.
+    - Start a new line after every sentence, but never insert blank lines between lines.
+    - Do not merge two sentences into one line.
+    - Always respond in Korean (한국어), even if the input is in English.
