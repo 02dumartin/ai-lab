@@ -1,0 +1,12 @@
+# VILA-M3 실험 설정 — 실행에 영향을 주는 값은 모두 여기서 관리
+model:
+  name: MONAI/Llama3-VILA-M3-8B
+  dtype: bfloat16
+
+paths:
+  data_root: null      # TODO: 데이터 경로 지정
+  output_dir: ./outputs
+
+generation:
+  max_new_tokens: 512
+  temperature: 0.0
