@@ -8,10 +8,3 @@ Multi-task AI tutorials and experiments for detection, segmentation, and related
 - Registered Jupyter kernel: `Python (ai-lab)`
 - Project environment: `.venv`
 
-
-## Areas
-
-- `detection`: detection-related notebooks
-- `segmentation`: segmentation-related notebooks
-- `jepa`: JEPA, I-JEPA, Vol-JEPA, and a notebook-scale NeuroVFM stack
-- `serving`: local LLM servers (vLLM) used by `agent` notebooks
